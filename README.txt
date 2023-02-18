@@ -1,5 +1,5 @@
 Title:
-GRNN: Graph retraining neural network for semi-supervised node classification
+GRNN: Graph-Retraining Neural Network for Semi-Supervised Node Classification
 https://doi.org/10.3390/a1010000
 
 
