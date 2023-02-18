@@ -1,5 +1,6 @@
 Title:
 GRNN: Graph retraining neural network for semi-supervised node classification
+https://doi.rog/10.3390/a1010000
 
 
 
